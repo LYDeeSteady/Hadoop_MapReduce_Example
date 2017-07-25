@@ -1,0 +1,12 @@
+Jack 1 5
+Alex 1 4
+Fred 1 2
+Jack 2 4
+Alex 2 5
+Fred 2 4
+Jack 3 5
+Alex 3 1
+Jeff 3 4
+Bird 5 8
+Jeff 4 5
+Bird 1 6
